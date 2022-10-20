@@ -1,0 +1,12 @@
+.banner{
+    background-image: url(https://firebasestorage.googleapis.com/v0/b/canciones-fedbb.appspot.com/o/bohemia.jpg?alt=media&token=c76871cc-f890-4d5f-9674-357f29b0ed5b);
+    background-position: top center;
+    background-size: cover;
+    padding: 25% 20% 40% 20%;
+}
+.text{
+    color: crimson;
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 50px;
+}
